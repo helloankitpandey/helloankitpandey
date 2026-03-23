@@ -1,99 +1,110 @@
+### Hi there, I'm <a href="#" target="_blank">Ankit Pandey</a> 👋
 
-<!--- 👋 Hi, I’m @helloankitpandey
-- 👀 I’m interested in ... FullStack Development, Android Development 
-- 🌱 I’m currently learning ... Reactnative
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my acoount 
-- 😄 Pronouns: ... akki
-- ⚡ Fun fact: ...
-  --->
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast&center=true&width=500&height=50">
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helloankit-pandey-/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/heloankitpandey)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/helloankitpandey/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ankii2216/)
 
-<h1 align="left">Hi there, I'm Ankit Pandey</h1>
+---
 
-###
+### Glad to see you here! 🚀  
 
-<h3 align="left">About me:</h3>
+Hey there! I'm **Ankit Pandey**, a **Full Stack Developer transitioning into AI Engineering**, passionate about building scalable applications and intelligent systems.
 
-###
+- 💻 Skilled in **MERN Stack, Next.js & React Native**
+- 🤖 Building **AI-powered applications using LLMs, RAG & Agents**
+- 🤖 Exploring **AI integrations & LLM-based applications**
+- 🧠 Strong in **Data Structures & Algorithms (Java)**
+- 🎯 Completed **Software Development Engineer (SDE) Internship**
+- 🚀 Currently working on **real-time and scalable projects**
 
-<p align="left">I'm a passionate MERN Stack Developer with a keep interest in building robust and scalable websites.I'm building efficient and user-friendly cross-platform apps with React Native, JavaScript, and TypeScript. Focused on performance, responsive design, and scalable architecture🚀. My goal is to write clean, efficient, and maintainable code that brings ideas to life on the web & mobile apps. Always eager to learn and explore new technologies, I strive to deliver the best user experiences through my projects.</p>
+When I’m not coding, I’m improving my problem-solving skills, building in public, or contributing to meaningful projects.
 
-###
+<img align="right" alt="AI Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
 
-<h3 align="left">Tech stack:</h3>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="45" alt="appwrite logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node Js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-informational?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-informational?style=for-the-badge)
 
-###
-<!--
-<h3 align="left">Featured Work:</h3>
+---
 
-###
+### 📌 Projects Highlights
 
-<p align="left"> https://buildportfolio.co - A platform where users can effortlessly create and deploy professional portfolios.<br><br>https://resume-editorr.vercel.app/ - An intuitive tool that allows users to create multiple resumes from a variety of templates.</p>
+- 🚀 **AI Chatbot (MERN + OpenAI)**  
+  Built a secure chatbot with JWT authentication, real-time messaging, and LLM integration for intelligent responses
 
-<h3 align="left">Read my blogs on:</h3>
-<p align="left"><a href="https://developerthink.com" target="_blank">developerthink.com</a> - Insights, tutorials, and tips for developers.</p>
+- 📱 **Meditation App (React Native)**  
+  Cross-platform app with audio playback, animations & smooth UX  
 
-###
---->
+- 📝 **NextWave Blog (Next.js + Prisma + MongoDB)**  
+  Scalable blog platform handling 10K+ records with SSR  
 
-<h3 align="left">What I do:</h3>
+- 💻 **Real-time Code Editor**  
+  Multi-user collaborative editor using Socket.IO & Monaco  
 
-###
+---
 
-<p align="left">🖥️ Create full-stack websites using Next.js, MongoDB, Express.js, React, and Node.js.<br>🧹 Focus on writing clean, modular, and maintainable code.<br>🚀 Transform complex problems into elegant solutions.</p>
+### ⚡ Talking about Me
 
-###
+- 👨🏻‍💻 Currently building **scalable full-stack & AI applications**
+- 🎯 Completed **Software Development Engineer (SDE) Internship**, gaining real-world development experience
+- 🤖 Focused on **AI/ML, RAG pipelines, and AI Agents**
+- 🧠 Practicing **Data Structures & Algorithms (Java)**
+- 🌱 Passionate about becoming a **skilled and impactful Software Engineer in AI**
+- 💬 Ask me about **AI, Web Dev, or Backend Systems**
+- 🚀 Goal: **SDE Role / AI Engineer Role at a top tech company**
 
-<h2 align="left">Let's Connect:</h2>
+---
 
-###
+## 🔧 Technologies & Tools
 
-<br clear="both">
+![](https://img.shields.io/badge/OS-macOS_(M2)-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/helloankit-pandey-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/heloankitpandey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/helloankitpandey/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://codepen.io/Ankit-Pandey-the-looper" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
-  </a>
-</div>
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
-###
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-<!---
-helloankitpandey/helloankitpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloankitpandey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloankitpandey&layout=compact&hide_border=true" />
+</p>

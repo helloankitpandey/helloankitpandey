@@ -17,13 +17,13 @@ Hey there! I'm **Ankit Pandey**, a **Full Stack Developer transitioning into AI 
 - 💻 Skilled in **MERN Stack, Next.js & React Native**
 - 🤖 Building **AI-powered applications using LLMs, RAG & Agents**
 - 🤖 Exploring **AI integrations & LLM-based applications**
-- 🧠 Strong in **Data Structures & Algorithms (Java)**
 - 🎯 Completed **Software Development Engineer (SDE) Internship**
 - 🚀 Currently working on **real-time and scalable projects**
+<!-- - 🧠 Strong in **Data Structures & Algorithms (Java)** -->
 
 When I’m not coding, I’m improving my problem-solving skills, building in public, or contributing to meaningful projects.
 
-<img align="right" alt="AI Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+<img align="right" alt="AI Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" height="250"/>
 
 ---
 
@@ -45,7 +45,7 @@ When I’m not coding, I’m improving my problem-solving skills, building in pu
 ![Vector DB](https://img.shields.io/badge/Vector_DB-informational?style=for-the-badge)
 
 ---
-
+<!--
 ### 📌 Projects Highlights
 
 - 🚀 **AI Chatbot (MERN + OpenAI)**  
@@ -61,16 +61,17 @@ When I’m not coding, I’m improving my problem-solving skills, building in pu
   Multi-user collaborative editor using Socket.IO & Monaco  
 
 ---
+-->
 
 ### ⚡ Talking about Me
 
 - 👨🏻‍💻 Currently building **scalable full-stack & AI applications**
 - 🎯 Completed **Software Development Engineer (SDE) Internship**, gaining real-world development experience
 - 🤖 Focused on **AI/ML, RAG pipelines, and AI Agents**
-- 🧠 Practicing **Data Structures & Algorithms (Java)**
 - 🌱 Passionate about becoming a **skilled and impactful Software Engineer in AI**
+<!-- - 🧠 Practicing **Data Structures & Algorithms (Java)** 
 - 💬 Ask me about **AI, Web Dev, or Backend Systems**
-- 🚀 Goal: **SDE Role / AI Engineer Role at a top tech company**
+- 🚀 Goal: **SDE Role / AI Engineer Role at a top tech company** -->
 
 ---
 
